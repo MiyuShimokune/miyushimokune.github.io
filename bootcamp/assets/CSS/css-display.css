@@ -1,0 +1,14 @@
+ul li{
+    display: inline;
+}
+a{
+    background-color: cornflowerblue;
+    display: block;
+}
+img{
+    width: 50%;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    z-index: 1;
+}

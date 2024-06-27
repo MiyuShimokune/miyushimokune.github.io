@@ -1,0 +1,17 @@
+table, th, td{
+    border: 1px solid black;
+    padding: 5px;
+    text-align: right;
+    empty-cells: hide;
+    border-collapse: separate;
+    border-spacing: 15px;
+
+}
+th{
+  background-color: gray;
+  color: white;
+  font-weight: bold;
+}
+tr:nth-child(odd){
+    background-color: aqua;
+}

@@ -1,0 +1,27 @@
+/* img{
+    height: 100%;
+    width: 350px;
+} */
+body{
+    background-image: url(../images/dog-8198719_640.jpg);
+    height: 600px;
+    width: 60%;
+    /* repeat-y repeat-xもある */
+    background-repeat: auto;
+
+}
+
+.img{
+    /* background-color: aliceblue;
+    height: 600;
+    width: 60%;
+    background-image: url(../images/adventure-5077760_1280.jpg);
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+    background-position: left bottom; */
+    /* background-attachment: fixed; */
+    background: white url(..//images/10199.png) no-repeat center center;
+    background-size: 100px 100px;
+    height: 600px;
+    width: 60%;
+}

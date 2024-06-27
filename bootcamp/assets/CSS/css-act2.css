@@ -1,0 +1,15 @@
+table{
+    box-shadow: 5px 5px 5px gray;
+    float: left;
+    margin: 10px;
+}
+.blue{
+    background-color: rgb(88, 155, 237);
+}
+.green{
+    background-color: rgb(116, 200, 116);
+    border-radius: 10px 10px 0px 0px;
+}
+.name{
+    font-weight: bold;
+}

@@ -1,0 +1,56 @@
+.color-name{
+    color: salmon;
+    font-family: monospace;
+    font-size: 10px;
+    text-transform: lowercase;
+}
+.rgb{
+    color: rgb(0, 5, 155);
+    font-family: serif;
+    font-size: 2em;
+    text-transform: uppercase;
+}
+.rgba{
+    color: rgba(255, 128, 0, 5);
+    font-family: sans-serif;
+    font-size: 30%;
+    text-transform: capitalize;
+}
+.hexa{
+    color: #00ff00;
+    font-weight: 600;
+}
+h2{
+    font-size: 20px;
+    font-style: oblique;
+}
+h3{
+    font-size: 20px;
+    font-style: italic;
+}
+h4{
+    font-size: 20px;
+    font-style: normal;
+}
+.overline{
+    text-decoration: overline;
+    text-align: center;
+}
+.underline{
+    text-decoration: underline;
+    text-align: left;
+}
+.line-through{
+    text-decoration: line-through;
+    text-align: right;
+}
+.justify{
+    text-align: justify;
+    text-indent: 50px;
+    word-spacing: 10px;
+}
+.text-shadow{
+    font-size: 3em;
+    text-shadow: 3px 3px 4px yellowgreen;
+    letter-spacing: 50px;
+}

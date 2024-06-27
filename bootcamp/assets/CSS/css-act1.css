@@ -1,0 +1,17 @@
+table{
+    border: 3px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+}
+table thead th{
+    background-color: salmon;
+    color: white;
+    padding: 5px;
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+tr:nth-child(odd){
+    background-color: rgb(239, 183, 192);
+}
